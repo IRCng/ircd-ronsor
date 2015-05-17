@@ -6,3 +6,6 @@
  */
 
 require("./newircd-sockcore.php");
+/*
+ * After this, no idea.
+ */
